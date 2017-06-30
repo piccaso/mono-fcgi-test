@@ -98,6 +98,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\StringReduceController.cs" />
     <Compile Include="Global.asax.cs" />
     <Compile Include="Helper\StringReducer.cs" />
     <Compile Include="IStringReducingService.cs" />
